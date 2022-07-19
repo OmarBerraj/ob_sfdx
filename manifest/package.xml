@@ -3,6 +3,7 @@
     <types>
         <members>AccountProcessor</members>
         <members>AccountTriggerHandler</members>
+        <members>AccountTriggerTest</members>
         <name>ApexClass</name>
     </types>
     <version>55.0</version>
